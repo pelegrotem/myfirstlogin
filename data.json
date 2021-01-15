@@ -1,0 +1,28 @@
+ [  
+     {
+        "UserName": "pelegr",
+        "Password":"1234",
+        "Name":"Peleg",
+        "Email":"Pelegr@gmail.com"
+    },{
+        "UserName": "roif",
+        "Password":"16101989",
+        "Name":"Roi",
+        "Email":"Roifisch@gmail.com"
+    },{
+        "UserName": "liatr",
+        "Password":"111",
+        "Name":"Liat",
+        "Email":"Liatr@gmail.com"
+    },{
+        "UserName": "avic",
+        "Password":"1234",
+        "Name":"Avi",
+        "Email":"Avic@gmail.com"
+    },{
+        "UserName": "yotamw",
+        "Password":"1234",
+        "Name":"yotam",
+        "Email":"yotamw@gmail.com"
+    }
+ ]
