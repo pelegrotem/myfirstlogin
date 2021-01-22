@@ -1,0 +1,10 @@
+server: 
+    1) speak about for loops, for of, map, filter and reduce.
+    2) make a js for IO function such as addUser, getUser, checkPassword etc...
+    3) delete the file data.json(git ignore).
+    4) promises and async await.
+
+front:
+    1) try to use all of the outer css and js from npm.
+    2) use fetch to call the server
+    3) maybe try it again and not use the existing  
